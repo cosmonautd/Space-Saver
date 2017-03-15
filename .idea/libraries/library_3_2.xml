@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-3.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/eed82ed128756d561b2b9bb5828652010c460dc8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/eed82ed128756d561b2b9bb5828652010c460dc8/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.rdrei.android.dirchooser/library/3.2/e4fa3803907ee785a8164571c85693d4c6cd9e84/library-3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
